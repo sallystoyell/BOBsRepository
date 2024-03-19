@@ -1,7 +1,5 @@
 # BOBs Repsitory
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8161443.svg)](https://doi.org/10.5281/zenodo.8161443)
-
 ## Read the Docs
 
 <div class="admonition attention">
