@@ -1,0 +1,8 @@
+site_name: BOBs Repository ReadTheDocs
+theme: readthedocs
+plugins:
+  - search
+docs_dir: docs
+nav:
+  - Overview: 
+      - Table of Contents: index.md
